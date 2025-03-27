@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/erikisakss?label=Follow&style=social)](https://github.com/erikisakss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erik_Isaksson-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/erikisakss)
-[![Email](https://img.shields.io/badge/Email-erik@isaksson.biz-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erik@isaksson.biz)
+[![Email](https://img.shields.io/badge/Email-kontakt@erikisaksson.se-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kontakt@erikisaksson.se)
 
 ## 🎓 Computer Science Student | 💻 Software Developer
 
