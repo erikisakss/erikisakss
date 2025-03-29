@@ -6,7 +6,7 @@
 
 ## 🎓 Computer Science Student | 💻 Software Developer
 
-Computer Science student at Mälardalen University with a background from the Swedish Armed Forces. My military experience as a Squad Leader has given me a strong foundation in security thinking and attention to detail, which I now apply to software development.
+Computer Science student at Mälardalen University with a background from the Swedish Armed Forces.
 
 Currently focusing on API development and desktop applications, while maintaining experience in web and mobile development. Among my recent projects, I've developed Java-based modifications for Minecraft servers that have gained widespread adoption.
 
