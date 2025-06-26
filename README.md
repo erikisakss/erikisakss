@@ -6,9 +6,9 @@
 
 ## 🎓 Computer Science Student | 💻 Software Developer
 
-Computer Science student at Mälardalen University with a background from the Swedish Armed Forces.
+Computer Science Graduate with a background from the Swedish Armed Forces.
 
-Currently focusing on API development and desktop applications, while maintaining experience in web and mobile development. Among my recent projects, I've developed Java-based modifications for Minecraft servers that have gained widespread adoption.
+Currently focusing on machine learning, while maintaining experience in web and mobile development.
 
 ## 🛠️ Technical Skills
 
@@ -48,7 +48,7 @@ Currently focusing on API development and desktop applications, while maintainin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 [![Public](https://img.shields.io/badge/Public-4CAF50?style=flat)](https://github.com/erikisakss/InvisiblePlayerItems)
 
-Minecraft plugin that uses ProtocolLib and the NMS Packet protocol to hide what items/equipment players are holding or wearing. I forked it in order to update the NMS to a never version.
+Minecraft plugin that uses ProtocolLib and the NMS Packet protocol to hide what items/equipment players are holding or wearing. I forked it in order to update the NMS to a newer version.
 
 ### MineraMod
 [![Public](https://img.shields.io/badge/Public-4CAF50?style=flat)](https://github.com/erikisakss/MineraMod)
@@ -94,4 +94,4 @@ AR application for smart homes with IoT integrations and visualization of sensor
 ---
 
 ### 💬 About Me
-What drives me is the opportunity to create robust technical solutions that make a real difference. Whether it's developing secure applications, crafting efficient APIs, or building reliable desktop software, I'm always eager to learn and apply new technologies.
+What drives me is the opportunity to create robust technical solutions that make a real difference. Whether it's developing secure applications, crafting efficient APIs, or building reliable desktop software, I'm always excited to learn and apply new technologies.
